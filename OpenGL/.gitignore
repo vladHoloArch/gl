@@ -1,0 +1,23 @@
+# User-specific files
+*.suo
+*.user
+*.vs
+*.sln.docstates
+
+# Build results
+DecomposeObjects/obj
+DecomposeObjects/bin/Debug/IFCConversion
+DecomposeObjects/bin/[Rr]elease
+DAL/obj
+
+# Executables
+IfcConvertV4.exe
+IfcConvertV2X3.exe
+IfcConvertMultithreaded.exe
+EdgeDecimator.exe
+
+# Project-Specific Files
+*.xml
+*.obj
+*.ifc
+*.mtl
